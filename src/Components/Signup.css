@@ -1,0 +1,116 @@
+.main{
+    margin-top: 100px;
+}
+.main input{
+    border: 1px solid blue;
+}
+.container{
+}
+.choice {
+    display: flex;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.choice img{
+    width: 110px;
+    margin-right: 40px;
+}
+.choice img:hover{
+    cursor: pointer;
+}
+.or{
+    display: flex;
+    justify-content: center;
+    margin-right: 130px ;
+}
+.or p{
+    margin-top: 17px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.numein input{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(214, 213, 213);
+    margin: 10px;
+    padding-left: 30px;
+    padding-right: 70px;
+}
+.input1 input{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(214, 213, 213);
+    margin: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.input2 input{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(214, 213, 213);
+    margin: 10px;
+    padding-left: 30px;
+    padding-right: 70px;
+}
+.radio{
+    padding-bottom: 20px;
+}
+.radio label{
+    font-size: 12px;
+    color: rgb(91, 80, 80);
+}
+.radio label:hover{
+    cursor: pointer;
+}
+.opt h3{
+    text-align:start
+}
+.opt p{
+    font-size: 10px;
+}
+/* .opt{
+    position: absolute;
+    border: 1px solid;
+    margin-left: 500px;
+    border-radius: 90px;
+    margin-top: 10px;
+    background-color: rgb(146, 231, 146);
+    width: 500px;
+    height: 110px;
+} */
+.btn{
+    background-color: rgb(209, 247, 209);
+    border-radius: 20px;
+    width: 600px;
+}
+.btn p{
+    font-size: 10px;
+    margin-top: 10px;
+}
+.radio{
+    margin-bottom: 30px;
+}
+.wt-img img{
+    margin-left: 10px;
+    /* margin-bottom: 20px; */
+}
+.submit-btn-1{
+    margin-right: 120px;
+    background:linear-gradient(to right, rgb(222, 87, 229), rgb(136, 99, 251))
+        transparent;
+}
+.style{
+    text-decoration: none;
+    color: rgb(230, 55, 84);
+}
+.header h2{
+    font-size: 20px;
+    /* margin-bottom: 30px; */
+}
+.header p{
+    font-size: 15px;
+}
+.header img{
+    margin-left: 700px;
+    border-radius: 200px;
+}

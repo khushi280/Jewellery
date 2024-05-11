@@ -1,0 +1,23 @@
+.main{
+    margin-top: 120px;
+    overflow-x: hidden;
+}
+.head img{
+    margin-left: 700px;
+}
+.main h1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.passem input{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(214, 213, 213);
+    margin: 10px;
+    padding-left: 30px;
+    padding-right: 70px;
+    border: 2px solid blue;
+}
+.passem{
+    margin-top: 40px;
+}
